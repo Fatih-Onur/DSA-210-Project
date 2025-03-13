@@ -44,5 +44,5 @@ new datas can be used and this list can be longer, However it should be enough.
 ## Data collection
 
 I will be collecting data from 3 sources fallowing; Premier League official website, Uefa offical website and Transfermarkt website.
-- **From transfermarkt I will be collecting their spending, earning, market value, number of transfer datas.**
-- **From Premier Leauge and Uefa I will be collecting their success datas(Points, standings, trophies).**
+- **From transfermarkt I will be collecting their spending, earning, market value, number of transfer datas. LINK:https://www.transfermarkt.com/premier-league/einnahmenausgaben/wettbewerb/GB1**
+- **From Premier Leauge and Uefa I will be collecting their success datas(Points, standings, trophies). LINK:https://www.premierleague.com/tables**
